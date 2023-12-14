@@ -7,10 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/mytraning202" target="blank"><img src="https://img.shields.io/twitter/follow/mytraning202?logo=twitter&style=for-the-badge" alt="mytraning202" /></a> </p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/mytraning202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mytraning202" height="30" width="40" /></a>
